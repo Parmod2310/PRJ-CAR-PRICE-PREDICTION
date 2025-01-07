@@ -179,6 +179,11 @@ model = pickle.load(open('model.pkl', 'rb'))
 
 ---
 
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
 ## 🧑‍💻 Contact
 For queries or feedback, feel free to reach out:
 - **Email:** p921035@gmail.com
