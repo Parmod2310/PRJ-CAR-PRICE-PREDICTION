@@ -1,7 +1,5 @@
 # Car Price Prediction
 
----
-
 ![Project Banner](https://github.com/Parmod2310/PRJ-CAR-PRICE-PREDICTION/blob/24c295716ec1a969cc1b260cfe8c565f3c38c1e7/image/pexels-heru-vision-289677440-13387407.jpg)
 
 ## 📖 Table of Contents
@@ -23,6 +21,7 @@
 9. [Future Enhancements](#future-enhancements)
 10. [License](#license)
 11. [Contact](#contact)
+
 
 ---
 ## 🚗 Project Overview
