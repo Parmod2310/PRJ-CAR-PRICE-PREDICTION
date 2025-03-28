@@ -150,7 +150,7 @@ model = pickle.load(open('model.pkl', 'rb'))
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/Parmod2310/PRJ-CAR-PRICE-PREDICTION.git
    ```
 2. Install dependencies:
    ```bash
