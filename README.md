@@ -158,7 +158,7 @@ model = pickle.load(open('model.pkl', 'rb'))
    ```
 3. Run the main script:
    ```bash
-   python main.py
+   PRJ-CAR PRICE PREDICTION Part 1.ipynb
    ```
 
 ---
